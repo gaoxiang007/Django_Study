@@ -1,0 +1,6 @@
+HomeBrew - a very useful Mac OS app manager
+http://brew.sh/
+
+virtualenv -p path/to/python myproject
+
+. bin/activate
