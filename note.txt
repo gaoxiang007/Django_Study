@@ -4,3 +4,5 @@ http://brew.sh/
 virtualenv -p path/to/python myproject
 
 . bin/activate
+or
+source myproject/bin/activate
